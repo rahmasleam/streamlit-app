@@ -1,0 +1,5 @@
+streamlit
+pycaret
+openpyxl
+seaborn
+plotly
